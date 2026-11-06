@@ -1,0 +1,4 @@
+interface:
+  display_name: "搜索字词审查"
+  short_description: "审查真实搜索字词，检查历史表现与否定范围，生成防误伤的待审建议清单。"
+  default_prompt: "用 $google-ads-search-terms 检查搜索字词，列出建议否定、保留和待确认的词。"

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.mypy_cache/
+.ruff_cache/
+.env
+.env.*
+credentials*.json
+*token*.json
+*.db
+*.db-*
+outputs/
+reports/
+ads-analysis/
+.agents/

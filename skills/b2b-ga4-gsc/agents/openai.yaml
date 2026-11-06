@@ -1,0 +1,4 @@
+interface:
+  display_name: "外贸网站流量与搜索分析"
+  short_description: "结合 GA4 与谷歌站长，看懂流量、关键词和询盘路径，并给出具体优化步骤。"
+  default_prompt: "请使用 $b2b-ga4-gsc 分析我的网站，用通俗中文说明主要问题、原因和优先改进步骤，生成 HTML 报告。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "广告表现诊断"
+  short_description: "比较广告表现与流量变化，区分可确认事实、原因假设与需要补充的证据。"
+  default_prompt: "用 $google-ads-diagnose 分析最近三个完整日，和上周相同星期比较。"

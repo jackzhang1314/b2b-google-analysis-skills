@@ -1,0 +1,4 @@
+interface:
+  display_name: "广告转化核验"
+  short_description: "核验转化动作、出价目标与价值口径，说明哪些数据可以用于询盘和回报分析。"
+  default_prompt: "用 $google-ads-measurement 判断转化数和转化价值能不能用于经营分析。"

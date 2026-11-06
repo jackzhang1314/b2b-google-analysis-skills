@@ -1,0 +1,4 @@
+interface:
+  display_name: "外贸 B2B 广告分析"
+  short_description: "结合广告、网站与询盘证据，找出获客问题并制定可验证的优化计划"
+  default_prompt: "使用 $b2b-google-ads 分析我的谷歌广告，找出影响有效询盘的主要问题，给出三项优先行动与验证方法。"
